@@ -1,0 +1,9 @@
+title: Privux
+description: don't know. schauen wir mal ...
+theme: minima
+minima:
+  social_links:
+    github: skukshaus
+  header_pages:
+    - about-me.md
+    - impressum.md
